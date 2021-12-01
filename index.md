@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# bq4050从上电到PF ｜ bq4050 Startup-manual: From power-on to permanent failure
+这是一本入门手册，适合希望入门使用德州仪器公司的bq4050电量计的用户阅读。
 
-You can use the [editor on GitHub](https://github.com/rinscr3003/bq4050startup-from-poweron-to-permanent-failure/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## 目录 ｜ Category
+- [零 序言](pages/0)
+- [一 基本概念](pages/1)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 关于作者
+一只高三狗，爱好电子。  
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rinscr3003/bq4050startup-from-poweron-to-permanent-failure/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+本手册作者与德州仪器公司无利益关系，内容仅供学习交流，免费向所有人提供，不得转卖。  
+本手册未提及的与德州仪器相关的许可协议请参照德州仪器公司的提供版本。本手册作者不为本手册中可能存在的错误或笔误所造成的任何损失或伤害承担责任。  
+作者保留著作权，且保留后期对许可协议进行解释及修改本手册许可协议而不向用户通知的权利。
