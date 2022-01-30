@@ -5,7 +5,7 @@
 - [零 序言](pages/0.html)
 - [一 基本概念](pages/1.html)
 - [二 首次上电](pages/2.html)
-- [三 保护设置](pages/3.html)
+- [三 关于“高级充电算法”](pages/3.html)
 
 ## 关于作者
 一只高三狗，爱好电子。  
