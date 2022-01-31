@@ -6,6 +6,12 @@
 - [一 基本概念](pages/1.html)
 - [二 首次上电](pages/2.html)
 - [三 关于“高级充电算法”](pages/3.html)
+- [四 保护功能设置](pages/4.html)
+- [五 校准](pages/5.html)
+- [六 容量学习](pages/6.html)
+- [七 CEDV参数的确定](pages/7.html)
+- [八 使用其他设备与bq4050通信](pages/8.html)
+- [九 杂记](pages/9.html)
 
 ## 关于作者
 一只高三狗，爱好电子。  
