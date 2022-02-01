@@ -10,10 +10,16 @@
 - [五 校准](pages/5.html)
 - [六 容量学习](pages/6.html)
 - [七 CEDV参数的确定](pages/7.html)
-- [八 使用其他设备与bq4050通信](pages/8.html)
+- [八 均衡功能](pages/8.html)
 - [九 杂记](pages/9.html)
 
-## 关于作者
+## 相关软件资料下载 ｜ Downloads
+[bq4050数据手册](https://www.ti.com.cn/cn/lit/gpn/bq4050)  
+[bq4050技术参考手册（sluuaq3）](https://www.ti.com.cn/cn/lit/pdf/sluuaq3)  
+[bqStudio](https://www.ti.com.cn/tool/cn/BQSTUDIO)  
+[bq4050默认参数固件v9E34](pages/asstes/4050_default.gg.csv)  
+
+## 关于作者 ｜ About the author
 一只高三狗，爱好电子。  
 
 本手册作者与德州仪器公司无利益关系，内容仅供学习交流，免费向所有人提供，不得转卖。  
