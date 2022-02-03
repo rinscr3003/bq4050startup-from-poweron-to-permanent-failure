@@ -8,8 +8,8 @@
 - [三 关于“高级充电算法”](pages/3.html)
 - [四 保护功能设置](pages/4.html)
 - [五 校准](pages/5.html)
-- [六 容量学习](pages/6.html)
-- [七 CEDV参数的确定](pages/7.html)
+- [六 CEDV参数的确定](pages/6.html)
+- [七 容量学习](pages/7.html)
 - [八 均衡功能](pages/8.html)
 - [九 杂记](pages/9.html)
 
