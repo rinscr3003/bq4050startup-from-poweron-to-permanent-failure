@@ -19,7 +19,7 @@
 [bq4050数据手册](https://www.ti.com.cn/cn/lit/gpn/bq4050)  
 [bq4050技术参考手册（sluuaq3）](https://www.ti.com.cn/cn/lit/pdf/sluuaq3)  
 [bqStudio](https://www.ti.com.cn/tool/cn/BQSTUDIO)  
-[bq4050默认参数固件v9E34](pages/assets/4050_default.gg.csv)  
+[bq4050默认参数文件](pages/assets/4050_default.gg.csv)  
 
 ## 关于作者 ｜ About the author
 一只高三狗，爱好电子。  
