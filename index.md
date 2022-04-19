@@ -11,8 +11,8 @@
 - [六 保护功能设置](pages/6.html)
 - [七 CEDV参数的确定](pages/7.html)
 - [八 容量学习](pages/8.html)
-- [九 均衡功能](pages/9.html)
-- [十 永久失效、黑盒子、生命历程](pages/10.html)
+- [九 永久失效](pages/9.html)
+- [十 均衡功能、黑盒子、生命历程](pages/10.html)
 - [十一 杂记](pages/11.html)
 
 ## 相关软件资料下载 ｜ Downloads
