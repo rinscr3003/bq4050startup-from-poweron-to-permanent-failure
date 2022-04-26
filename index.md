@@ -13,8 +13,7 @@
 - [八 容量学习](pages/8.html)
 - [九 永久失效与黑盒子](pages/9.html)
 - [十 均衡功能、生命历程](pages/10.html)
-- [十一 杂记](pages/11.html)
-- [十二 实战：从零开始设置一片bq4050](pages/12.html)
+- [十一 实战：从零开始设置一片bq4050](pages/11.html)
 
 ## 相关软件资料下载 ｜ Downloads
 [bq4050数据手册](https://www.ti.com.cn/cn/lit/gpn/bq4050)  
